@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Beslisboom jesper:jar">
+    <output-path>$USER_HOME$/Desktop/Academy jars</output-path>
+    <root id="archive" name="Beslisboom.jar">
+      <element id="module-output" name="Beslisboom" />
+    </root>
+  </artifact>
+</component>
